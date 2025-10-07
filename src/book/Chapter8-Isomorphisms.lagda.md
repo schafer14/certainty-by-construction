@@ -24,11 +24,11 @@ some incredibly powerful programming techniques.
 
 Like many notions of equality we have studied thus far, isomorphisms do not
 preserve *everything* between two types. Of particular interest to us, is that
-isomorphic types usually have dramatically different computational
+isomorphic types usually have drastically different computational
 behavior---and the knowledgeable practitioner can exploit this differential. In
 this chapter, we will focus on the theory, saving its real-world usage as a case
 study for our final chapter. There we will wield our newfound powers to
-dramatically simplify the problem of dynamic programming, in essence, acquiring
+drastically simplify the problem of dynamic programming, in essence, acquiring
 learning how to improve algorithmic asymptotics for free.
 
 Isomorphisms are *everywhere* in programming, whether we're aware of them or
